@@ -20,3 +20,4 @@ We found that there is a lack of a properly maintained list of websites and othe
 13. [University of Zurich (+ ETH Zurich) Life Sciences PhD](https://www.lifescience-graduateschool.uzh.ch/en/about-LSZGS/phd-programs.html) - Top Life Sciences PhD Program
 14. [Lauren Valdez's Channel](https://www.youtube.com/c/LaurenValdez) - For fellowship applications and other writing tips
 15. [UG Research Internships](https://github.com/himahuja/Research-Internships-for-Undergraduates) - Comprehensive GitHub list of UG Internships
+16. [Karpathy's Survival Guide](http://karpathy.github.io/2016/09/07/phd/)
