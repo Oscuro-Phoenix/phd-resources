@@ -2,7 +2,7 @@
 
 ### This list keeps getting updated as and when we find more resources 
 
-We found that there is a lack of a properly maintained list of websites and other links for people who are applying or planning to apply to PhD programs. Feel free to make changes to the README file and submit your pull requests. The requests will be duly cross checked and approved to keep this list spam-free.
+We found that there is a lack of a properly maintained list of websites and other links for people who are applying or planning to apply to PhD programs. Feel free to make the same changes to the README and index file and submit your pull requests. The requests will be duly cross checked and approved to keep this list spam-free.
 
 
 1.  [PhD Applications Guide by us](https://medium.com/gradadm/engineering-phd-application-guide-a3877e84d891) - Specifically for Engineering PhD programs
