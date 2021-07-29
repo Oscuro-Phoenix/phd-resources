@@ -9,7 +9,7 @@ We found that there is a lack of a properly maintained list of websites and othe
 3. [Cover Letter Guide by us](https://medium.com/gradadm/engineering-phd-application-guide-a3877e84d891) - Comprehensive guide for cover letter writing
 4. [Breanna's Channel for Applicants](https://www.youtube.com/channel/UCy4kcsF87VlPL-CauIsqlJg) - PhD application guidance videos
 5. [Darren Lipomi's Channel](https://www.youtube.com/user/djlipomi) - Know more about a career in science and beyond
-6. [Lilian-AlphaGenesis Channel](https://www.youtube.com/channel/UCBfyfPZR0Cc5b-nl5vO4fbw) - For PhD admissions, interview advice and more
+6. [Lillian-AlphaGenesis Channel](https://www.youtube.com/channel/UCBfyfPZR0Cc5b-nl5vO4fbw) - For PhD admissions, interview advice and more
 7. [Open Positions at ETH Zurich](https://jobs.ethz.ch/site/index) - Jobs list
 8. [PhD Positions in EU+UK 1](https://euraxess.ec.europa.eu/) - Euraxess usually has a lot of EU PhD job postings with great filters
 9. [PhD Positions in EU+UK 2](https://www.findaphd.com/) - FindAPhD 
