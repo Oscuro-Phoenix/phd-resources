@@ -32,4 +32,8 @@ We found that there is a lack of a properly maintained list of websites and othe
 ### After you Apply / Receive Admits
 1. [Gradcafe](https://www.thegradcafe.com/) - Updates Regarding the admission PhD Results and Discussions
 2. [Gradly](https://gradly.us/#) - Updated information related to admission for PhD and Masters
-3. [PhD stipends](http://www.phdstipends.com/results) - Database for Living wave ratio(Stipend/Living Wage) in Universitis PhD Programs.
+3. [PhD stipends](http://www.phdstipends.com/results) - Database for Living wage ratio(Stipend/Living Wage) in Universitis PhD Programs.
+
+### Books
+1. [Admitted: The Missing Guide To Craft A Winning Application & Study Abroad](https://www.amazon.in/Admitted-Missing-Winning-Application-Abroad/dp/8194135621) - Guide Book for Grad Admissions
+2. [Demystifying the PhD Process : A Complete Guide to Getting into a PhD Program](https://www.amazon.in/Demystifying-PhD-Process-Complete-Getting-ebook/dp/B092TTLBCT/ref=sr_1_1?dchild=1&keywords=breanna+lam&qid=1628179742&s=books&sr=1-1) - Breanna's Guide to PhD Admissions
