@@ -37,4 +37,4 @@ We found that there is a lack of a properly maintained list of websites and othe
 ### After you Apply / Receive Admits
 1. [Gradcafe](https://www.thegradcafe.com/) - Updates Regarding the admission PhD Results and Discussions
 2. [Gradly](https://gradly.us/#) - Updated information related to admission for PhD and Masters
-3. [PhD stipends](http://www.phdstipends.com/results) - Database for Living wage ratio(Stipend/Living Wage) in Universitis PhD Programs.
+3. [PhD stipends](http://www.phdstipends.com/results) - Database for Living wage ratio(Stipend/Living Wage) in PhD Programs.
