@@ -13,7 +13,7 @@ We found that there is a lack of a properly maintained list of websites and othe
 
 ### Internships
 1. [UG Research Internships](https://github.com/himahuja/Research-Internships-for-Undergraduates) - Comprehensive GitHub list of UG Internships
-
+2. [CERN- Summer Student Programme](https://home.cern/summer-student-programme) - Summer Internship Program offered by CERN
 ### Guides
 1.  [PhD Applications Guide by us](https://medium.com/gradadm/engineering-phd-application-guide-a3877e84d891) - Specifically for Engineering PhD programs
 2. [Statement of Purpose Guide by us](https://medium.com/gradadm/engineering-phd-application-guide-a3877e84d891) - Also covers the non-generic points
@@ -24,7 +24,7 @@ We found that there is a lack of a properly maintained list of websites and othe
 7. [University of Zurich (+ ETH Zurich) Life Sciences PhD](https://www.lifescience-graduateschool.uzh.ch/en/about-LSZGS/phd-programs.html) - Top Life Sciences PhD Program
 8. [Lauren Valdez's Channel](https://www.youtube.com/c/LaurenValdez) - For fellowship applications and other writing tips
 9. [Karpathy's Survival Guide](http://karpathy.github.io/2016/09/07/phd/) - PhD Life and Career Advice
-
+10. [Melissa Tan's Channel](https://www.youtube.com/channel/UCcPItx57t4SA2CCqi466yHw) - For PhD applications
 
 ### Books
 1. [Admitted: The Missing Guide To Craft A Winning Application & Study Abroad](https://www.amazon.in/Admitted-Missing-Winning-Application-Abroad/dp/8194135621) - Guide Book for Grad Admissions
