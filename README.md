@@ -25,6 +25,7 @@ We found that there is a lack of a properly maintained list of websites and othe
 8. [Lauren Valdez's Channel](https://www.youtube.com/c/LaurenValdez) - For fellowship applications and other writing tips
 9. [Karpathy's Survival Guide](http://karpathy.github.io/2016/09/07/phd/) - PhD Life and Career Advice
 10. [Melissa Tan's Channel](https://www.youtube.com/channel/UCcPItx57t4SA2CCqi466yHw) - For PhD applications
+11. [Jonathan Shewchuk's Guidelines](https://people.eecs.berkeley.edu/~jrs/apply.html) - Meant for CS folks in particular but one can also be used for a general idea of admission into grad schools
 
 ### Books
 1. [Admitted: The Missing Guide To Craft A Winning Application & Study Abroad](https://www.amazon.in/Admitted-Missing-Winning-Application-Abroad/dp/8194135621) - Guide Book for Grad Admissions
