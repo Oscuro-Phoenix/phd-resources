@@ -14,6 +14,7 @@ We found that there is a lack of a properly maintained list of websites and othe
 ### Internships
 1. [UG Research Internships](https://github.com/himahuja/Research-Internships-for-Undergraduates) - Comprehensive GitHub list of UG Internships
 2. [CERN- Summer Student Programme](https://home.cern/summer-student-programme) - Summer Internship Program offered by CERN
+
 ### Guides
 1.  [PhD Applications Guide by us](https://medium.com/gradadm/engineering-phd-application-guide-a3877e84d891) - Specifically for Engineering PhD programs
 2. [Statement of Purpose Guide by us](https://medium.com/gradadm/engineering-phd-application-guide-a3877e84d891) - Also covers the non-generic points
